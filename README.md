@@ -1,0 +1,1 @@
+This repo is for practicing HTML, CSS, and JavaScript projects!
